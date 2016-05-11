@@ -1,5 +1,6 @@
 body {
 	margin:0;
+	/*git stuff*/
 }
 
 .margin-top-20 {
@@ -35,7 +36,7 @@ input {
 	font-size:20px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
-	box-sizing: border-box;    
+	box-sizing: border-box;
 }
 
 .container {
